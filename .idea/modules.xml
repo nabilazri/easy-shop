@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EASYSHOP.iml" filepath="$PROJECT_DIR$/.idea/EASYSHOP.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/koulchi_kayn/.idea/koulchi_kayn.iml" filepath="$USER_HOME$/WebstormProjects/koulchi_kayn/.idea/koulchi_kayn.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/portfolio/.idea/portfolio.iml" filepath="$USER_HOME$/WebstormProjects/portfolio/.idea/portfolio.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/portfolio_agency/.idea/portfolio_agency.iml" filepath="$USER_HOME$/WebstormProjects/portfolio_agency/.idea/portfolio_agency.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/react-sb-employee/react-frontend/.idea/react-frontend.iml" filepath="$USER_HOME$/WebstormProjects/react-sb-employee/react-frontend/.idea/react-frontend.iml" />
+    </modules>
+  </component>
+</project>
